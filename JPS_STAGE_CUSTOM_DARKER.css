@@ -115,7 +115,7 @@ body {
  box-sizing:border-box;
  line-height:1.6;
  font-size:12px;
- color:#c6c9c9;
+ color:#404040;
  background-color:var(--background-color);
 }
 h1,h2,h3,h4,h5,h6 {
@@ -548,7 +548,7 @@ margin-bottom: 0px;
 
 #menu ul li a {
         padding: 0.6em 1.5%;
-        color: #c6c9c9;
+        color: #404040;
 }
 
 #menu ul li a:active {
