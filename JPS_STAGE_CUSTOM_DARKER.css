@@ -26,7 +26,7 @@
 	 --table-background-color: #1e2426;
 	 --alternate-background-color: #262d30; /*Used for every second table row + read torrents*/
 	 --header-color: radial-gradient(circle, rgba(255,68,251,1) 0%, rgba(0,123,149,1) 100%);
-	 --menu-gradient: radial-gradient(circle, rgba(255,68,251,1) 0%, rgba(0,123,149,1) 100%);
+	 --menu-gradient: linear-gradient(0deg, rgba(154,0,255,1) 0%, rgba(239,0,255,1) 65%);
 	 --accent-color: #A082BD;
 	 --webkit-color: #7C3861;
 	 --new-torrent: #262d30;
