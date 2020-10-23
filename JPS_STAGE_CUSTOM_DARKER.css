@@ -115,7 +115,7 @@ body {
  box-sizing:border-box;
  line-height:1.6;
  font-size:12px;
- color:#404040;
+ color:#f1f1f1;
  background-color:var(--background-color);
 }
 h1,h2,h3,h4,h5,h6 {
